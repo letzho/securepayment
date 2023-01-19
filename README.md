@@ -7,3 +7,5 @@ In command prompt or Anaconda prompt,
 conda create --name <env_name> pandas numpy matplotlib spyder scikit-learn
 conda activate <env_name>
 pip install -r requirements.txt
+conda install opencv tensorflow
+pip install matplotlib deepface
